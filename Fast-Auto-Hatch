@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/PetsimulatorScripts/AutoFarm-TradeScam/main/DupePets/PetChanger"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PetsimulatorScripts/AutoFarmScript/main/EveryAutoFarm'))()
